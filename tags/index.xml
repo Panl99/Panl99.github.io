@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on lp</title>
+    <link>https://panl99.github.io/tags/</link>
+    <description>Recent content in Tags on lp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2020–2021, @lp</copyright>
+    
+        <atom:link href="https://panl99.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
